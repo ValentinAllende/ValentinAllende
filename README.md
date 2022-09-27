@@ -3,11 +3,20 @@
 ## 🚀 About Me
 actualmente estudiante de Lic. en Ciencias de la Computación y graduado de Henry
 
-Soy una persona que busca el crecimiento profesional y personal, enfocada hacia el trabajo en equipo y resolución de problemas. Por esto mismo inicie el curso en Henry, del cual aprendí varias aptitudes, entre ellas:
-![Logo](https://cdn.worldvectorlogo.com/logos/react-1.svg)
-![Logo](https://img2.freepng.es/20180511/zie/kisspng-redux-react-javascript-vue-js-single-page-applicat-5af5cde3d3a5e8.2671715915260584678669.jpg)
-UX/UI, HTML, CSS, JavaScript, Git, NodeJS, Express, React, Redux, SQL, Sequelize, Scrum.
-
+Soy una persona que busca el crecimiento profesional y personal, enfocada hacia el trabajo en equipo y resolución de problemas. Por esto mismo inicie el curso en Henry, del cual aprendí varias aptitudes
+## Entre Ellas:
+- UX/UI
+- HTML
+- CSS
+- JavaScrypt
+- Git
+- NodeJs
+- Express
+- React
+- Redux
+- SQL
+- Sequelize
+- Scrum
 ## 🔥 Experiencias en Henry
  mi proyecto individual destaque el uso de estados(React) y logica desde el frontend. se trata de una pagina con el principio C.R.U.D e informacion obtenida desde un api.
 Link: https://dogs-web-lyart.vercel.app/
