@@ -8,7 +8,7 @@ Experiencias en Henry:
  mi proyecto individual destaque el uso de estados(React) y logica desde el frontend. se trata de una pagina con el principio C.R.U.D e informacion obtenida desde un api.
 Link: https://dogs-web-lyart.vercel.app/
 
-en mi proyecto final destaque por la implementación de la pasarela de pago(Stripe), asi mismo implemente un mapa con ayuda de la api positionStack y componentes dummy en el front.
+en mi proyecto final destaque por la implementación de la pasarela de pago(Stripe), asi mismo implemente un mapa con ayuda de la api positionStack, estilizacion de la pagina(ux/ui)
 Link: https://medic-app-pf.vercel.app/
 
 Hacia donde voy:
