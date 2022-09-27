@@ -18,7 +18,7 @@ Me he enfocado en el área de frontend, porque creo firmemente que se pueden sol
 
 ## 🗣️ Contáctame!
 
-[![Correo](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](valentin_allende@hotmail.com)
+[![Correo](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](mailto:genesispferrer@gmail.com)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-valent%C3%ADn-allende-1747b4240/)
 
