@@ -1,3 +1,5 @@
+![Hola, soy Alejandro 👋](https://i.ibb.co/k9tWxBk/Dise-o-sin-t-tulo.png/468x300?text=App+Screenshot+Here)
+
 ## 🚀 About Me
 actualmente estudiante de Lic. en Ciencias de la Computación y graduado de Henry
 
