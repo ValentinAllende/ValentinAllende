@@ -4,6 +4,11 @@
 actualmente estudiante de Lic. en Ciencias de la Computación y graduado de Henry
 
 Soy una persona que busca el crecimiento profesional y personal, enfocada hacia el trabajo en equipo y resolución de problemas. Por esto mismo inicie el curso en Henry, del cual aprendí varias aptitudes, entre ellas:
+![Logo](https://cdn.worldvectorlogo.com/logos/react-1.svg)
+![Logo](https://cdn.worldvectorlogo.com/logos/react-1.svg)
+![Logo](https://cdn.worldvectorlogo.com/logos/react-1.svg)
+![Logo](https://cdn.worldvectorlogo.com/logos/react-1.svg)
+![Logo](https://e7.pngegg.com/pngimages/522/1018/png-clipart-purple-atom-redux-logo-icons-logos-emojis-tech-companies-thumbnail.png)
 UX/UI, HTML, CSS, JavaScript, Git, NodeJS, Express, React, Redux, SQL, Sequelize, Scrum.
 
 ## 🔥 Experiencias en Henry
